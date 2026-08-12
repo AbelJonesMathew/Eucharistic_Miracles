@@ -1,0 +1,95 @@
+[
+  {
+    "id": "lanciano",
+    "title": "The Miracle of Lanciano",
+    "location": "Lanciano, Italy",
+    "date": "700 AD",
+    "year": 700,
+    "coordinates": { "lat": 42.23, "lng": 14.39 },
+    "description": "A Basilian monk doubted the Real Presence. During the consecration, the Host physically changed into Flesh and the Wine into Blood, which later coagulated into five globules.",
+    "science": [
+      "The Host is human muscular tissue of the heart (myocardium).",
+      "The Blood is true human blood, type AB.",
+      "The proteins in the blood are normally distributed, matching fresh blood.",
+      "No chemical preservatives or embalming agents were found."
+    ],
+    "details": "In the 8th century, in the church of St. Legontian, a priest doubted the true presence of Christ in the Eucharist. As he spoke the words of consecration, the host transformed into a circle of living flesh and the wine into blood. The blood coagulated into five distinct parts of different sizes. In 1970, a rigorous scientific investigation led by Dr. Odoardo Linoli (professor of anatomy and pathological histology) confirmed that the flesh is striated muscle tissue of the myocardium (heart wall) and the blood is type AB. It has been preserved for over 1,200 years without any artificial substances."
+  },
+  {
+    "id": "bolsena",
+    "title": "The Miracle of Bolsena",
+    "location": "Bolsena, Italy",
+    "date": "1263 AD",
+    "year": 1263,
+    "coordinates": { "lat": 42.64, "lng": 11.98 },
+    "description": "A German priest, Father Peter of Prague, was struggling with doubt. As he celebrated Mass, blood began to flow from the consecrated Host, staining the corporal linen cloth.",
+    "science": [
+      "Bloodstains on the corporal linen consist of human blood, type AB.",
+      "The pattern and state of preservation indicate natural human blood components.",
+      "Led to Pope Urban IV instituting the global Feast of Corpus Christi."
+    ],
+    "details": "Father Peter of Prague was on a pilgrimage to Rome to pray for relief from his doubts regarding the Eucharist. While celebrating Mass at the tomb of Saint Christina in Bolsena, the host began to bleed immediately after the consecration. Drops fell onto his hands and the linen corporal. He immediately wrapped the host and went to Orvieto, where Pope Urban IV was residing. The Pope declared it a miracle and instituted the Feast of Corpus Christi (Body of Christ) for the entire Church, commissioning the construction of the magnificent Cathedral of Orvieto to house the stained corporal."
+  },
+  {
+    "id": "siena",
+    "title": "The Incorrupt Hosts of Siena",
+    "location": "Siena, Italy",
+    "date": "1730 AD",
+    "year": 1730,
+    "coordinates": { "lat": 43.32, "lng": 11.33 },
+    "description": "Thieves stole 351 consecrated hosts from the Basilica of San Francesco. When found in a donation box days later, they were cleaned and returned, remaining perfectly fresh for nearly 300 years.",
+    "science": [
+      "The hosts remain in a state of perfect preservation, defying natural decay.",
+      "Chemical and biological analyses confirmed they have not decomposed.",
+      "Flour and water mixtures naturally decompose within days; these remain fresh."
+    ],
+    "details": "On August 14, 1730, thieves broke into the Basilica of San Francesco in Siena and stole a golden ciborium containing 351 consecrated hosts. Three days later, the hosts were found in the offering box of the Sanctuary of Santa Maria in Provenzano, covered in dust and cobwebs. They were carefully cleaned and preserved. Over the next 290+ years, instead of decaying and molding as unleavened bread naturally does, the hosts remained completely fresh, smelling like fresh unleavened bread. Scientists, including Nobel Laureates, have inspected them and found no scientific explanation for their preservation."
+  },
+  {
+    "id": "buenos_aires",
+    "title": "The Miracle of Buenos Aires",
+    "location": "Buenos Aires, Argentina",
+    "date": "1996 AD",
+    "year": 1996,
+    "coordinates": { "lat": -34.60, "lng": -58.38 },
+    "description": "A discarded host was placed in a vessel of water to dissolve. Instead of dissolving, it transformed into bloody flesh. Subsequent studies revealed living heart tissue.",
+    "science": [
+      "Identified as human heart tissue (left ventricle myocardium).",
+      "The tissue was in an active inflammatory state with white blood cells (intact DNA).",
+      "Indicates the heart was alive and under severe trauma when tissue was taken.",
+      "Matched AB blood type, identical to the Lanciano miracle."
+    ],
+    "details": "On August 18, 1996, at the parish of Santa Maria y San Carlos Borromeo, a consecrated host was found discarded on a candle holder. Following church guidelines, the priest placed it in a container of water to dissolve. Seven days later, the host had turned into a reddish substance of muscle tissue. In 1999, Cardinal Jorge Bergoglio (later Pope Francis) commissioned a scientific study. Samples were sent blindly to prominent scientists (including cardiologist Dr. Frederic Zugibe). They concluded that the sample was living heart tissue (myocardium) showing signs of severe trauma, and that it contained active white blood cells which could only exist if the heart was clinically alive at the moment of sampling."
+  },
+  {
+    "id": "sokolka",
+    "title": "The Miracle of Sokółka",
+    "location": "Sokółka, Poland",
+    "date": "2008 AD",
+    "year": 2008,
+    "coordinates": { "lat": 53.40, "lng": 23.50 },
+    "description": "During Communion, a priest dropped a host, which was put in water. A red spot appeared on it, which pathologists determined to be human heart tissue structurally woven into the bread.",
+    "science": [
+      "Pathologists confirmed the red spot is human heart tissue (myocardium).",
+      "Fibers of the bread and the cardiac tissue are complexly intertwined/woven.",
+      "This interlocking of structures cannot be artificially replicated.",
+      "Matches AB blood group profile."
+    ],
+    "details": "At the church of St. Anthony in Sokółka, Poland, a host was accidentally dropped during Mass. It was placed in a vasculum (water container) to dissolve. A week later, the sister sacristan noticed a bright red spot on the host. Two independent pathologists from the Medical University of Białystok, Dr. Maria Sobaniec-Łotowska and Dr. Stanisław Sulkowski, examined the host. They found that the red spot was human heart tissue of a person who was dying. Furthermore, they observed that the bread fibers and the heart fibers were intertwined at a microscopic level, a phenomenon that is impossible to synthesize or fake artificially."
+  },
+  {
+    "id": "legnica",
+    "title": "The Miracle of Legnica",
+    "location": "Legnica, Poland",
+    "date": "2013 AD",
+    "year": 2013,
+    "coordinates": { "lat": 51.21, "lng": 16.16 },
+    "description": "A consecrated host fell to the floor and was placed in water. It developed red stains that, under scientific analysis, were identified as dying cardiac muscle tissue.",
+    "science": [
+      "The tissue was identified as human cardiac muscle tissue.",
+      "Shows alterations typical of a heart in agony/severe stress.",
+      "Approved by the Holy See and Bishop Zbigniew Kiernikowski in 2016."
+    ],
+    "details": "On Christmas Day, 2013, at the Church of Saint Hyacinth in Legnica, Poland, a consecrated host fell to the ground. It was placed in a container of water to dissolve. Shortly after, a red spot appeared. In 2014, the Department of Forensic Medicine examined the tissue. The report concluded: 'In the histopathological image, the fragments of tissue were found containing fragmented parts of cross-striated muscle... The whole image is most similar to the cardiac muscle with alterations that often accompany agony.' In 2016, the miracle was officially announced and approved for public veneration."
+  }
+]
